@@ -1,0 +1,2 @@
+This is the first blog!
+The goal is to practice the git.
